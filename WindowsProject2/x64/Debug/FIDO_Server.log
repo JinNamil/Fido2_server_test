@@ -1,0 +1,136 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(FIDO2.0_server.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  stdafx.cpp
+  HIDComm.cpp
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(7): error C2653: 'HIDComm': 클래스 또는 네임스페이스 이름이 아닙니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(7): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(8): error C2550: 'HIDComm': 생성자 이니셜라이저 목록은 생성자 정의에만 사용할 수 있습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(10): error C2065: 'deviceName': 선언되지 않은 식별자입니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(11): error C2065: 'deviceName': 선언되지 않은 식별자입니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(12): error C2065: 'deviceName': 선언되지 않은 식별자입니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(13): warning C4508: 'HIDComm': 함수는 값을 반환해야 하므로 'void' 반환 형식으로 간주됩니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(15): error C2523: 'HIDComm::~HIDComm': 소멸자 태그가 일치하지 않습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(15): error C2510: 'HIDComm': '::' 왼쪽은 클래스/구조체/공용 구조체이어야 합니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(17): error C3861: 'close': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(18): error C2065: 'deviceName': 선언되지 않은 식별자입니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(18): error C2541: 'delete': 포인터가 아닌 개체를 삭제할 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(19): error C2065: 'deviceName': 선언되지 않은 식별자입니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(20): warning C4508: 'HIDComm': 함수는 값을 반환해야 하므로 'void' 반환 형식으로 간주됩니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(22): error C2510: 'HIDComm': '::' 왼쪽은 클래스/구조체/공용 구조체이어야 합니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(28): error C3861: 'open': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(30): error C3861: 'read': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(31): error C3861: 'close': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(34): error C3861: 'DBG_Log': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(43): error C2510: 'HIDComm': '::' 왼쪽은 클래스/구조체/공용 구조체이어야 합니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(61): error C3861: 'open': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(62): error C3861: 'write': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(63): error C3861: 'close': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(66): error C3861: 'DBG_Log': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(73): error C2510: 'HIDComm': '::' 왼쪽은 클래스/구조체/공용 구조체이어야 합니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(77): error C2065: 'hidHandle': 선언되지 않은 식별자입니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(79): error C3861: 'close': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(82): error C3861: 'DBG_Log': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(87): error C2065: 'deviceName': 선언되지 않은 식별자입니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(89): error C3861: 'DBG_Log': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(93): error C2065: 'hidHandle': 선언되지 않은 식별자입니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(93): error C2065: 'deviceName': 선언되지 않은 식별자입니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(94): error C2065: 'hidHandle': 선언되지 않은 식별자입니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(96): error C3861: 'DBG_Log': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(103): error C2510: 'HIDComm': '::' 왼쪽은 클래스/구조체/공용 구조체이어야 합니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(107): error C2065: 'hidHandle': 선언되지 않은 식별자입니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(118): error C2065: 'hidHandle': 선언되지 않은 식별자입니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(124): error C2065: 'hidHandle': 선언되지 않은 식별자입니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(129): error C2510: 'HIDComm': '::' 왼쪽은 클래스/구조체/공용 구조체이어야 합니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(142): error C3861: 'DBG_Log': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(155): error C3861: 'DBG_Log': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(160): error C3861: 'DBG_Log': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(168): error C3861: 'DBG_Log': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(173): error C3861: 'DBG_Log': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(185): error C2065: 'hidHandle': 선언되지 않은 식별자입니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(191): error C3861: 'DBG_Log': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(209): error C2065: 'hidHandle': 선언되지 않은 식별자입니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(217): error C2065: 'hidHandle': 선언되지 않은 식별자입니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(229): error C3861: 'DBG_Log': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(258): error C3861: 'DBG_Log': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(265): error C2510: 'HIDComm': '::' 왼쪽은 클래스/구조체/공용 구조체이어야 합니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(278): error C3861: 'DBG_Log': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(291): error C3861: 'DBG_Log': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(296): error C3861: 'DBG_Log': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(304): error C3861: 'DBG_Log': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(309): error C3861: 'DBG_Log': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(321): error C2065: 'hidHandle': 선언되지 않은 식별자입니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(327): error C3861: 'DBG_Log': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(345): error C2065: 'hidHandle': 선언되지 않은 식별자입니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(353): error C2065: 'hidHandle': 선언되지 않은 식별자입니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(365): error C3861: 'DBG_Log': 식별자를 찾을 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\hidcomm.cpp(396): error C3861: 'DBG_Log': 식별자를 찾을 수 없습니다.
+  WindowsProject2.cpp
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\resource.h(39): warning C4005: 'CREATEPROCESS_MANIFEST_RESOURCE_ID': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(261): note: 'CREATEPROCESS_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\resource.h(40): warning C4005: 'MINIMUM_RESERVED_MANIFEST_RESOURCE_ID': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(264): note: 'MINIMUM_RESERVED_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\resource.h(223): warning C4005: 'ISOLATIONAWARE_MANIFEST_RESOURCE_ID': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(262): note: 'ISOLATIONAWARE_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\resource.h(313): warning C4005: 'ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(263): note: 'ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\resource.h(541): warning C4005: 'MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(265): note: 'MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\resource.h(604): warning C4005: 'RT_MANIFEST': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(260): note: 'RT_MANIFEST'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\resource.h(1523): warning C4005: 'IDI_APPLICATION': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10758): note: 'IDI_APPLICATION'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\resource.h(1526): warning C4005: 'IDI_HAND': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10759): note: 'IDI_HAND'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\resource.h(1529): warning C4005: 'IDI_QUESTION': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10760): note: 'IDI_QUESTION'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\resource.h(1532): warning C4005: 'IDI_EXCLAMATION': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10761): note: 'IDI_EXCLAMATION'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\resource.h(1535): warning C4005: 'IDI_ASTERISK': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10762): note: 'IDI_ASTERISK'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\resource.h(1537): warning C4005: 'IDI_WINLOGO': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10764): note: 'IDI_WINLOGO'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\resource.h(1539): warning C4005: 'IDI_SHIELD': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10767): note: 'IDI_SHIELD'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\resource.h(1614): warning C4005: 'HTERROR': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(2539): note: 'HTERROR'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\resource.h(1616): warning C4005: 'PWR_FAIL': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(2048): note: 'PWR_FAIL'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\resource.h(1617): warning C4005: 'HTTRANSPARENT': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(2540): note: 'HTTRANSPARENT'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(67): error C2365: 'asmInit': 재정의: 이전 정의는 '데이터 변수'입니다.
+  c:\users\jin\source\repos\fido2.0_server_test\fido_server\asm.h(122): note: 'asmInit' 선언을 참조하십시오.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(67): error C2491: 'asmInit': dllimport 함수을(를) 정의할 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(87): error C2365: 'asmUninit': 재정의: 이전 정의는 '데이터 변수'입니다.
+  c:\users\jin\source\repos\fido2.0_server_test\fido_server\asm.h(124): note: 'asmUninit' 선언을 참조하십시오.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(87): error C2491: 'asmUninit': dllimport 함수을(를) 정의할 수 없습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(840): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(941): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\time.h(506): note: 'localtime' 선언을 참조하십시오.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(943): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(944): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(970): warning C4244: 'return': 'INT_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(1009): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 인수 2을(를) 'const char [16]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(1009): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(1016): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 인수 2을(를) 'const char [23]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(1016): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(1036): error C2198: 'pAsmInit': 호출에 매개 변수가 너무 적습니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(1042): error C2440: '=': 'char [260]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+  c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(1042): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(1044): error C2440: '=': 'const char [45]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(1044): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(1046): error C2440: '=': 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(1046): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(1050): error C2664: 'DWORD GetCurrentDirectoryW(DWORD,LPWSTR)': 인수 2을(를) 'char [260]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+  c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(1050): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(1055): error C2664: 'BOOL SetWindowTextW(HWND,LPCWSTR)': 인수 2을(를) 'char [260]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(1055): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(1063): error C2664: 'BOOL SetWindowTextW(HWND,LPCWSTR)': 인수 2을(를) 'char [260]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(1063): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(1067): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 인수 2을(를) 'const char [23]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(1067): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(1071): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 인수 2을(를) 'const char [30]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\jin\source\repos\fido2.0_server_test\fido_server\windowsproject2.cpp(1071): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+  코드를 생성하고 있습니다...

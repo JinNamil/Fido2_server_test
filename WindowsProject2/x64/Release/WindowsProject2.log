@@ -1,0 +1,50 @@
+﻿  stdafx.cpp
+  WindowsProject2.cpp
+c:\users\jin\source\repos\windowsproject2\windowsproject2\resource.h(40): warning C4005: 'CREATEPROCESS_MANIFEST_RESOURCE_ID': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(261): note: 'CREATEPROCESS_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\resource.h(41): warning C4005: 'MINIMUM_RESERVED_MANIFEST_RESOURCE_ID': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(264): note: 'MINIMUM_RESERVED_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\resource.h(224): warning C4005: 'ISOLATIONAWARE_MANIFEST_RESOURCE_ID': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(262): note: 'ISOLATIONAWARE_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\resource.h(314): warning C4005: 'ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(263): note: 'ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\resource.h(542): warning C4005: 'MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(265): note: 'MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\resource.h(605): warning C4005: 'RT_MANIFEST': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(260): note: 'RT_MANIFEST'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\resource.h(1524): warning C4005: 'IDI_APPLICATION': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10758): note: 'IDI_APPLICATION'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\resource.h(1527): warning C4005: 'IDI_HAND': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10759): note: 'IDI_HAND'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\resource.h(1530): warning C4005: 'IDI_QUESTION': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10760): note: 'IDI_QUESTION'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\resource.h(1533): warning C4005: 'IDI_EXCLAMATION': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10761): note: 'IDI_EXCLAMATION'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\resource.h(1536): warning C4005: 'IDI_ASTERISK': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10762): note: 'IDI_ASTERISK'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\resource.h(1538): warning C4005: 'IDI_WINLOGO': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10764): note: 'IDI_WINLOGO'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\resource.h(1540): warning C4005: 'IDI_SHIELD': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10767): note: 'IDI_SHIELD'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\resource.h(1615): warning C4005: 'HTERROR': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(2539): note: 'HTERROR'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\resource.h(1616): warning C4005: 'PWR_FAIL': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(2048): note: 'PWR_FAIL'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\resource.h(1618): warning C4005: 'HTTRANSPARENT': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(2540): note: 'HTTRANSPARENT'의 이전 정의를 참조하십시오.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(448): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(603): error C2440: '=': 'char [260]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+  c:\users\jin\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(603): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(605): error C2440: '=': 'const char [69]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\jin\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(605): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(610): error C2664: 'DWORD GetCurrentDirectoryW(DWORD,LPWSTR)': 인수 2을(를) 'char [260]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+  c:\users\jin\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(610): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(615): error C2664: 'BOOL SetWindowTextW(HWND,LPCWSTR)': 인수 2을(를) 'char [260]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\jin\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(615): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(627): error C2664: 'BOOL SetWindowTextW(HWND,LPCWSTR)': 인수 2을(를) 'char [260]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  c:\users\jin\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(627): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(683): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\jin\source\repos\windowsproject2\windowsproject2\windowsproject2.cpp(684): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.

@@ -1,0 +1,82 @@
+﻿  stdafx.cpp
+  cn-cbor.c
+d:\work\fido2.0_server_test\windowsproject2\cn-cbor.c(169): warning C4244: '=': 'uint64_t'에서 'unsigned long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\work\fido2.0_server_test\windowsproject2\cn-cbor.c(172): warning C4244: '=': 'uint64_t'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\work\fido2.0_server_test\windowsproject2\cn-cbor.c(176): warning C4244: '=': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\work\fido2.0_server_test\windowsproject2\cn-cbor.c(183): warning C4244: '=': 'uint64_t'에서 'unsigned long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\work\fido2.0_server_test\windowsproject2\cn-cbor.c(189): warning C4244: '=': 'uint64_t'에서 'unsigned long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\work\fido2.0_server_test\windowsproject2\cn-cbor.c(200): warning C4244: '함수': 'uint64_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\work\fido2.0_server_test\windowsproject2\cn-cbor.c(208): warning C4244: '=': 'uint64_t'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\work\fido2.0_server_test\windowsproject2\cn-cbor.c(223): warning C4244: '=': 'uint64_t'에서 'unsigned long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cn-create.c
+d:\work\fido2.0_server_test\windowsproject2\cn-create.c(68): warning C4244: '=': 'int64_t'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\work\fido2.0_server_test\windowsproject2\cn-create.c(71): warning C4244: '=': 'int64_t'에서 'unsigned long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cn-encoder.c
+d:\work\fido2.0_server_test\windowsproject2\cn-encoder.c(92): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\work\fido2.0_server_test\windowsproject2\cn-encoder.c(118): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cn-error.c
+  cn-get.c
+  hid.c
+  코드를 생성하고 있습니다...
+  decoder.cpp
+  encoder.cpp
+  HIDComm.cpp
+  input.cpp
+  listener_debug.cpp
+  output_dynamic.cpp
+  output_static.cpp
+  WindowsProject2.cpp
+d:\work\fido2.0_server_test\windowsproject2\resource.h(40): warning C4005: 'CREATEPROCESS_MANIFEST_RESOURCE_ID': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(261): note: 'CREATEPROCESS_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+d:\work\fido2.0_server_test\windowsproject2\resource.h(41): warning C4005: 'MINIMUM_RESERVED_MANIFEST_RESOURCE_ID': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(264): note: 'MINIMUM_RESERVED_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+d:\work\fido2.0_server_test\windowsproject2\resource.h(224): warning C4005: 'ISOLATIONAWARE_MANIFEST_RESOURCE_ID': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(262): note: 'ISOLATIONAWARE_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+d:\work\fido2.0_server_test\windowsproject2\resource.h(314): warning C4005: 'ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(263): note: 'ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+d:\work\fido2.0_server_test\windowsproject2\resource.h(542): warning C4005: 'MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(265): note: 'MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+d:\work\fido2.0_server_test\windowsproject2\resource.h(605): warning C4005: 'RT_MANIFEST': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(260): note: 'RT_MANIFEST'의 이전 정의를 참조하십시오.
+d:\work\fido2.0_server_test\windowsproject2\resource.h(1525): warning C4005: 'IDI_APPLICATION': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10758): note: 'IDI_APPLICATION'의 이전 정의를 참조하십시오.
+d:\work\fido2.0_server_test\windowsproject2\resource.h(1528): warning C4005: 'IDI_HAND': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10759): note: 'IDI_HAND'의 이전 정의를 참조하십시오.
+d:\work\fido2.0_server_test\windowsproject2\resource.h(1531): warning C4005: 'IDI_QUESTION': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10760): note: 'IDI_QUESTION'의 이전 정의를 참조하십시오.
+d:\work\fido2.0_server_test\windowsproject2\resource.h(1534): warning C4005: 'IDI_EXCLAMATION': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10761): note: 'IDI_EXCLAMATION'의 이전 정의를 참조하십시오.
+d:\work\fido2.0_server_test\windowsproject2\resource.h(1537): warning C4005: 'IDI_ASTERISK': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10762): note: 'IDI_ASTERISK'의 이전 정의를 참조하십시오.
+d:\work\fido2.0_server_test\windowsproject2\resource.h(1539): warning C4005: 'IDI_WINLOGO': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10764): note: 'IDI_WINLOGO'의 이전 정의를 참조하십시오.
+d:\work\fido2.0_server_test\windowsproject2\resource.h(1541): warning C4005: 'IDI_SHIELD': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10767): note: 'IDI_SHIELD'의 이전 정의를 참조하십시오.
+d:\work\fido2.0_server_test\windowsproject2\resource.h(1616): warning C4005: 'HTERROR': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(2539): note: 'HTERROR'의 이전 정의를 참조하십시오.
+d:\work\fido2.0_server_test\windowsproject2\resource.h(1618): warning C4005: 'PWR_FAIL': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(2048): note: 'PWR_FAIL'의 이전 정의를 참조하십시오.
+d:\work\fido2.0_server_test\windowsproject2\resource.h(1619): warning C4005: 'HTTRANSPARENT': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(2540): note: 'HTTRANSPARENT'의 이전 정의를 참조하십시오.
+d:\work\fido2.0_server_test\windowsproject2\windowsproject2.h(33): warning C4091: 'typedef ': 변수를 선언하지 않으면 'cborcount' 왼쪽은 무시됩니다.
+d:\work\fido2.0_server_test\windowsproject2\windowsproject2.h(42): warning C4091: 'typedef ': 변수를 선언하지 않으면 'stringdist' 왼쪽은 무시됩니다.
+d:\work\fido2.0_server_test\windowsproject2\windowsproject2.cpp(41): warning C4005: 'ERROR': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\wingdi.h(118): note: 'ERROR'의 이전 정의를 참조하십시오.
+d:\work\fido2.0_server_test\windowsproject2\windowsproject2.cpp(87): warning C4005: 'OUT': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(83): note: 'OUT'의 이전 정의를 참조하십시오.
+d:\work\fido2.0_server_test\windowsproject2\windowsproject2.cpp(681): warning C4101: 'encoded' :참조되지 않은 지역 변수입니다.
+d:\work\fido2.0_server_test\windowsproject2\windowsproject2.cpp(680): warning C4101: 'enc_sz' :참조되지 않은 지역 변수입니다.
+d:\work\fido2.0_server_test\windowsproject2\windowsproject2.cpp(711): warning C4101: 'map' :참조되지 않은 지역 변수입니다.
+d:\work\fido2.0_server_test\windowsproject2\windowsproject2.cpp(713): warning C4101: 'cb_int' :참조되지 않은 지역 변수입니다.
+d:\work\fido2.0_server_test\windowsproject2\windowsproject2.cpp(764): warning C4101: 'incount' :참조되지 않은 지역 변수입니다.
+d:\work\fido2.0_server_test\windowsproject2\windowsproject2.cpp(1114): warning C4101: 'ghwnd' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+d:\work\fido2.0_server_test\windowsproject2\windowsproject2.cpp(827): warning C4715: 'WindowsProject2::EncoderCount': 모든 제어 경로에서 값을 반환하지는 않습니다.
+resource.h(1616): warning RC4005: 'HTERROR' : redefinition
+  
+resource.h(1618): warning RC4005: 'PWR_FAIL' : redefinition
+  
+resource.h(1619): warning RC4005: 'HTTRANSPARENT' : redefinition
+  
+     D:\work\FIDO2.0_SERVER_TEST\Debug\eWBM_Server_Test.lib 라이브러리 및 D:\work\FIDO2.0_SERVER_TEST\Debug\eWBM_Server_Test.exp 개체를 생성하고 있습니다.
+  WindowsProject2.vcxproj -> D:\work\FIDO2.0_SERVER_TEST\Debug\eWBM_Server_Test.exe

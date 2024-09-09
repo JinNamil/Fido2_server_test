@@ -29,7 +29,7 @@ Fido2.0 is an industry standard that enables strong, public key cryptography-bas
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-repo/fido2-mfc-server.git
+    git clone https://github.com/JinNamil/Fido2_server_test
     ```
 
 2. **Set up Visual Studio:**
